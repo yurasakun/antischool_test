@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630175685219",
+    "project_id": "antischool-ba21c",
+    "storage_bucket": "antischool-ba21c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630175685219:android:10e1bbaccf9156566bf656",
+        "android_client_info": {
+          "package_name": "com.example.antischool_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6RxBx3RRM6DdDw5G3vpoXkMwZcgrrkHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
