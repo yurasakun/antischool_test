@@ -19,6 +19,7 @@ class Cards extends StatelessWidget {
           Image.network(
             card.imageLink,
             height: CustomTheme.imageCardMaxHeight,
+            width: CustomTheme.imageCardMaxWidth,
           ),
           CustomTheme.padding5,
           Text(card.word,

@@ -7,6 +7,8 @@ class CustomTheme {
 
   static const double paddingPoint = 5;
   static const double imageCardMaxHeight = 300;
+
+  static const double imageCardMaxWidth = 375;
   static const double cardMaxHeight = 500;
 
   static SizedBox padding1 = _padding(1);
